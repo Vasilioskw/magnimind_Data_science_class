@@ -1,0 +1,1 @@
+# magnimind_Data_science_class
